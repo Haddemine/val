@@ -18,7 +18,7 @@ function runAway() {
     }, 10);
   }
   setTimeout(function(){
-    alert("YOUR ONLY CHOICE IS TO SAY YES!!! HAHAHHA");
+    alert("9aliya No matcht9l ");
     var audio = new Audio("music/song.mp3");
     audio.loop = true;
     audio.play();
